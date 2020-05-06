@@ -1,0 +1,1 @@
+/var/www/magento219Data/vendor/magento/module-admin-notification/view/adminhtml/web/toolbar_entry.js
